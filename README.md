@@ -7,11 +7,11 @@ It is the best steganographic app available for iOS. Send messages and imageswit
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/StayMoving/HitBear/master/HitBear/01.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/StayMoving/HitBear/master/HitBear/02.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/StayMoving/HitBear/master/HitBear/03.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/StayMoving/HitBear/master/HitBear/04.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/StayMoving/HitBear/master/HitBear/05.png"> </td>
+<td> <img src="https://github.com/StayMoving/HitBear/blob/master/HitBear/01.png"> </td>
+<td> <img src="https://github.com/StayMoving/HitBear/blob/master/HitBear/02.png"> </td>
+<td> <img src="https://github.com/StayMoving/HitBear/blob/master/HitBear/03.png"> </td>
+<td> <img src="https://github.com/StayMoving/HitBear/blob/master/HitBear/04.png"> </td>
+<td> <img src="https://github.com/StayMoving/HitBear/blob/master/HitBear/05.png"> </td>
 </tr>
 
 <tr>
