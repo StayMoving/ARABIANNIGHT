@@ -1,12 +1,12 @@
-# Remember Everything - Number
+# ARABIAN NIGHT - Game
 
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://staymoving.github.io/RememberEverything/1.png"> </td>
-<td> <img src="https://staymoving.github.io/RememberEverything/2.png"> </td>
-<td> <img src="https://staymoving.github.io/RememberEverything/3.png"> </td>
-<td> <img src="https://staymoving.github.io/RememberEverything/4.png"> </td>
+<td> <img src="https://staymoving.github.io/ARABIANNIGHT/1.png"> </td>
+<td> <img src="https://staymoving.github.io/ARABIANNIGHT/2.png"> </td>
+<td> <img src="https://staymoving.github.io/ARABIANNIGHT/3.png"> </td>
+<td> <img src="https://staymoving.github.io/ARABIANNIGHT/4.png"> </td>
 </tr>
 
 <tr>
@@ -15,14 +15,10 @@
 
 
 <br>
-This is a game to exercise memory, there are three modes,easy , medium, Hard！
-<br>
-Game Numbers will be randomly distributed, the order to click on them, all right through! 
-<br>
-Come and join us!
+This is a pen and paper game played by two people, a circle (O), a cross (X), take turns in the 3 by 3 grid hit their own symbols, the first horizontal, straight, oblique line is the winner.
 <br>
 
 
 
 ### User Information
-ekccgc80254@163.com
+ccgc254@163.com
